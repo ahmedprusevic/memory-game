@@ -1,0 +1,32 @@
+.Navbar {
+    max-width: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #375E97;
+    border-radius: 12px;
+    padding: 0.25rem;
+}
+
+.header {
+    text-align: center;
+}
+
+.fa-redo-alt {
+    background-color: #FFBB00;
+    padding: 0.75rem;
+    color: #375E97;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.timer {
+    padding: 0.75rem;
+    color: white;
+}
+
+.nomoves {
+    padding: 0.75rem;
+    color: white;
+}
